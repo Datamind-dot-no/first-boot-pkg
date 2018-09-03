@@ -1,3 +1,4 @@
 first-boot.pkg
 test.plist
 *.pyc
+.DS_Store
